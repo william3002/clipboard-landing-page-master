@@ -1,0 +1,159 @@
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+  }
+
+header>h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0 50px;
+    color: hsl(210, 10%, 33%);
+}
+
+header>p {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 0 38px;
+    color: hsl(201, 11%, 66%);
+}
+
+.imagem-fundo {
+    position: absolute;
+}
+
+.logo-C {
+    width: 30%;
+    margin: 100px 50px 50px 130px;
+}
+
+.btn_Ios {
+    background-color: hsl(171, 66%, 44%);
+    box-shadow: 0px 8px 13px -7px hsl(171, 66%, 44%);
+}
+
+.btn_Ios:hover {
+    color: white;
+    background-color: hsl(171, 78%, 32%);
+    box-shadow: 0px 8px 13px -7px hsl(171, 78%, 32%);
+}
+
+.btn_Mac {
+    background-color: hsl(233, 100%, 69%);
+    box-shadow: 0px 8px 13px -7px hsl(233, 100%, 69%);
+}
+
+.btn_Mac:hover {
+    color: white;
+    background-color: hsl(233, 69%, 46%);
+    box-shadow: 0px 8px 13px -7px hsl(233, 69%, 46%);
+}
+
+.btns {
+    display: grid;
+}
+
+.btn {
+    margin: 0 24px 20px;
+    height: 50px;
+    width: 320px;
+    color: white;
+}
+
+main {
+    height: 3290px;
+}
+
+main>h2 {
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    margin-top: 40px;
+}
+
+main>p {
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    padding: 0 30px;
+    margin-bottom: 50px;
+}
+
+.img-computer {
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
+.div-computer-col>h2 {
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.div-computer-col>p {
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    padding: 0 30px;
+    margin-bottom: 50px;
+}
+
+.img-devices {
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
+main>img {
+    display: block;
+    width: 80px;
+    margin: auto;
+}
+
+main>picture {
+    display: block;
+    width: 150px;
+    margin: auto;
+}
+
+main>picture>img {
+    margin-bottom: 100px;
+}
+
+.div-col-horizontal1>h2 {
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    margin-top: 60px;
+}
+
+.div-col-horizontal1>p {
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    padding: 0 30px;
+    margin-bottom: 50px;
+}
+
+.div-col-horizontal1>img {
+    display: block;
+    margin: auto;
+
+}
+
+footer {
+    height: 444px;
+    text-align: center;
+    background-color: rgba(189, 189, 189, 0.616);
+}
+
+.info {
+    margin-bottom: 30px;
+    color: hsl(210, 10%, 33%);
+}
+
+footer>img {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 15%;
+}
+
+.rede-Social {
+    display: flex;
+    gap: 40px;
+    margin: 58px 0 0 110px;
+}
